@@ -111,12 +111,6 @@ O projeto será iniciado automaticamente no navegador.
 
 ---
 
-# 📷 Preview do projeto
-
-Adicione aqui prints ou gifs da aplicação funcionando.
-
----
-
 # 📄 Licença
 
 Este projeto foi desenvolvido para fins acadêmicos, prática de desenvolvimento web e evolução técnica.
